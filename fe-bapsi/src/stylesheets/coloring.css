@@ -1,0 +1,32 @@
+.gradient {
+  background-image: linear-gradient(to bottom, #890082, #6d0357, #4d0b35, #2b0d1b, #000000);
+}
+
+.gradient-color {
+  color: linear-gradient(to bottom, #890082, #6d0357, #4d0b35, #2b0d1b, #000000);
+}
+
+#app {
+  color: #2b2b2b;
+  --black: #2b2b2b;
+  --primary: #890082;
+  --secondary: #BA68C8;
+  --red: #d30d0d;
+  --green: #008a39;
+  --gray: #f5f5f5;
+  --darkgray:#c4c4c4;
+  --white: #ffffff;
+  --yellow: #ffc116;
+}
+
+.red {
+  color: var(--red);
+}
+
+.green {
+  color: var(--green);
+}
+
+.primary {
+  color: var(--primary);
+}

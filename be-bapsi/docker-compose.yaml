@@ -1,0 +1,10 @@
+version: '3.8'
+
+# services:
+#   mysql_db:
+#     image: mysql:latest
+#     environment:
+#       - MYSQL_ROOT_PASSWORD=faizal
+#       - MYSQL_DATABASE=bapsi_management_system
+#     ports:
+#       - "3306:3306"
